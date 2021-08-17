@@ -18,3 +18,7 @@ Git commands we have learnt till now :-
 
 
 I changed hello.txt file , now let us see the changes by writing changes by writing
+
+git status 
+ 
+ modified -> git add -> staged
