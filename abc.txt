@@ -1,3 +1,8 @@
 hello , I am abc.txt file
 
 I changed again
+
+
+git branch -M main
+git remote add origin https://github.com/Vishnudewangan/learninggit.git
+git push -u origin main
